@@ -1,5 +1,5 @@
 import { useState } from "react";
-import PostCard from "./components/PostCard";
+import PostCard from "./components/postcard";
 import "./App.css";
 
 function App() {
